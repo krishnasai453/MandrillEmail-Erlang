@@ -1,0 +1,13 @@
+[{release,"mandrill_email_release","1","7.3",
+          [{kernel,"4.2","./lib/kernel-4.2"},
+           {stdlib,"2.8","./lib/stdlib-2.8"},
+           {ranch,"1.1.0","./lib/ranch-1.1.0"},
+           {crypto,"3.6.3","./lib/crypto-3.6.3"},
+           {asn1,"4.0.2","./lib/asn1-4.0.2"},
+           {inets,"6.2","./lib/inets-6.2"},
+           {cowlib,"1.0.1","./lib/cowlib-1.0.1"},
+           {public_key,"1.1.1","./lib/public_key-1.1.1"},
+           {cowboy,"1.0.1","./lib/cowboy-1.0.1"},
+           {ssl,"7.3","./lib/ssl-7.3"},
+           {mandrill_email,"0.1.0","./lib/mandrill_email-0.1.0"}],
+          permanent}].

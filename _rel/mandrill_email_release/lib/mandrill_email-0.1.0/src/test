@@ -1,0 +1,4 @@
+mandrillemail:send_email("krishnasai453@gmail.com","Krishna","nothing","template1",{"merge1","againnothing"}).
+
+
+curl -i -d remail=krishnasai453@gmail.com rname=Krishna subject=nothing template=template1 mergevars={"merge1","againnothing"} http://localhost:8080
